@@ -1,2 +1,7 @@
-hello mt name is naman pandey from Bhilai, Chhattisgarh
+<<<<<<< HEAD
+hello my name is naman pandey from Bhilai, Chhattisgarh
 hello from main
+=======
+hello my name is naman pandey from Bhilai, Chhattisgarh
+Hello from dev
+>>>>>>> dev
