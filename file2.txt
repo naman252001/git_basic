@@ -1,1 +1,2 @@
-hello mt name is naman pandey from Bhilai, Chhattisgarh
+hello my name is naman pandey from Bhilai, Chhattisgarh
+Hello from dev
